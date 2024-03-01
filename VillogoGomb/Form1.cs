@@ -19,16 +19,15 @@ namespace VillogoGomb
             {
                 for (int oszlop = 0; oszlop < 10; oszlop++)
                 {
-                    SzámolóGomb b = new SzámolóGomb();
+                    VillogoGomb b = new VillogoGomb();
                     Random rnd = new Random();
-                    b.Left = rnd.Next(1, ClientRectangle.Width - méret);
-                    b.Top = rnd.Next(1, ClientRectangle.Height - méret);
+                    
                     //1-3 feladatok
                     b.Height = méret;
                     b.Width = méret;
-                    //b.Left =oszlop*méret;
-                    //b.Top = sor*méret;
-                    //b.Text = ((sor+1)*(oszlop+1)).ToString();
+                    b.Left =oszlop*méret;
+                    b.Top = sor*méret;
+                    b.Text = ((sor+1)*(oszlop+1)).ToString();
                     Controls.Add(b);
                 }
             }
