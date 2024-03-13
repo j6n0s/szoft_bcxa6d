@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GombokHaromszogben", "Gombo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karacsonyfa", "Karacsonyfa\Karacsonyfa.csproj", "{E8624532-7939-442A-A372-8D57C01A9DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{77AA9B34-63FF-4233-B268-0FDCB041A22E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{77AA9B34-63FF-4233-B268-0FDCB041A22E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fib_2", "Fib_2\Fib_2.csproj", "{DD8D6F4C-D6EE-4F80-B854-6F62914D485F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fib_2", "Fib_2\Fib_2.csproj", "{DD8D6F4C-D6EE-4F80-B854-6F62914D485F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sakk", "Sakk\Sakk.csproj", "{0DADE4E1-CDED-4902-8054-9464FF4F1622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sakk", "Sakk\Sakk.csproj", "{0DADE4E1-CDED-4902-8054-9464FF4F1622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzinesGombok", "SzinesGombok\SzinesGombok.csproj", "{59C2B9DB-51B8-484E-9BA8-288241FC8FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzinesGombok", "SzinesGombok\SzinesGombok.csproj", "{59C2B9DB-51B8-484E-9BA8-288241FC8FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriviaJatek", "TriviaJatek\TriviaJatek.csproj", "{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{59C2B9DB-51B8-484E-9BA8-288241FC8FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C2B9DB-51B8-484E-9BA8-288241FC8FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C2B9DB-51B8-484E-9BA8-288241FC8FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
