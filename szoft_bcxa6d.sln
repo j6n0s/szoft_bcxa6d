@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sakk", "Sakk\Sakk.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzinesGombok", "SzinesGombok\SzinesGombok.csproj", "{59C2B9DB-51B8-484E-9BA8-288241FC8FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriviaJatek", "TriviaJatek\TriviaJatek.csproj", "{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriviaJatek", "TriviaJatek\TriviaJatek.csproj", "{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajósKvíz", "HajósKvíz\HajósKvíz.csproj", "{E6FD69F9-3B33-41E1-98F3-AB279D304510}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBBA428B-6030-4D7A-B39C-2FD2EB3A9657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FD69F9-3B33-41E1-98F3-AB279D304510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FD69F9-3B33-41E1-98F3-AB279D304510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FD69F9-3B33-41E1-98F3-AB279D304510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FD69F9-3B33-41E1-98F3-AB279D304510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
