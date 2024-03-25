@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajósKvíz", "HajósKvíz\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KigyósJáték", "KigyósJáték\KigyósJáték.csproj", "{3C2FE24A-7489-4D2E-B6EE-AA508A50886A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajósKvízOtthon(2)", "HajósKvízOtthon(2)\HajósKvízOtthon(2).csproj", "{A186D079-45C0-428E-824C-6BE6F0555035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajósKvízOtthon(2)", "HajósKvízOtthon(2)\HajósKvízOtthon(2).csproj", "{A186D079-45C0-428E-824C-6BE6F0555035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KígyósJátékOtthon", "KígyósJátékOtthon\KígyósJátékOtthon.csproj", "{CAEA187D-BB5B-44B7-87BF-A32D429C4651}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{A186D079-45C0-428E-824C-6BE6F0555035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A186D079-45C0-428E-824C-6BE6F0555035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A186D079-45C0-428E-824C-6BE6F0555035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEA187D-BB5B-44B7-87BF-A32D429C4651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEA187D-BB5B-44B7-87BF-A32D429C4651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEA187D-BB5B-44B7-87BF-A32D429C4651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEA187D-BB5B-44B7-87BF-A32D429C4651}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
