@@ -10,9 +10,13 @@ namespace HajósKvízOtthon_2_
     {
         public VálaszGomb()
         {
-            BackColor = Color.LightCoral;
-            Multiline = true;
             ReadOnly = true;
+            BackColor = Color.Gray;
+            BorderStyle = BorderStyle.None;
+            Multiline = true;
+            Width = 440;
+            Height = 80;
+            Font = new Font(Font.Name, 14);
 
             MouseEnter += VálaszGomb_MouseEnter;
             MouseLeave += VálaszGomb_MouseLeave;
