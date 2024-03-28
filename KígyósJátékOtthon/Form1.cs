@@ -60,7 +60,7 @@ namespace KígyósJátékOtthon
         //Alma elhelyezése
         void Alma_elhelyezése()
         {
-            Random rnd = new Random();
+            Random rnd = new Random(); 
             while (true)
             {
                 bool alma_ismétlődés = false;
