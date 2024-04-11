@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajósKvízOtthon(2)", "Haj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KígyósJátékOtthon", "KígyósJátékOtthon\KígyósJátékOtthon.csproj", "{CAEA187D-BB5B-44B7-87BF-A32D429C4651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoriaLefoglalas", "MemoriaLefoglalas\MemoriaLefoglalas.csproj", "{FE98F52E-DA8A-4A8C-BCD3-84F2EF04FE9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoriaLefoglalas", "MemoriaLefoglalas\MemoriaLefoglalas.csproj", "{FE98F52E-DA8A-4A8C-BCD3-84F2EF04FE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "European_Countries", "European_Countries\European_Countries.csproj", "{A3C1BD0A-62E6-4BA7-8E35-C4BB237E6A33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{FE98F52E-DA8A-4A8C-BCD3-84F2EF04FE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE98F52E-DA8A-4A8C-BCD3-84F2EF04FE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE98F52E-DA8A-4A8C-BCD3-84F2EF04FE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C1BD0A-62E6-4BA7-8E35-C4BB237E6A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C1BD0A-62E6-4BA7-8E35-C4BB237E6A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C1BD0A-62E6-4BA7-8E35-C4BB237E6A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C1BD0A-62E6-4BA7-8E35-C4BB237E6A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
