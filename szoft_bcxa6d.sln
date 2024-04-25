@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoriaLefoglalas", "Memori
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "European_Countries", "European_Countries\European_Countries.csproj", "{A3C1BD0A-62E6-4BA7-8E35-C4BB237E6A33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajosVizsgakerdesek", "HajosVizsgakerdesek\HajosVizsgakerdesek.csproj", "{5EC098AC-F813-4DD9-9302-1E9909135294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajosVizsgakerdesek", "HajosVizsgakerdesek\HajosVizsgakerdesek.csproj", "{5EC098AC-F813-4DD9-9302-1E9909135294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_Szerver_csatlakozas", "SQL_Szerver_csatlakozas\SQL_Szerver_csatlakozas.csproj", "{8EBB084A-E7B3-48C8-BAE0-E0566B672082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{5EC098AC-F813-4DD9-9302-1E9909135294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EC098AC-F813-4DD9-9302-1E9909135294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EC098AC-F813-4DD9-9302-1E9909135294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBB084A-E7B3-48C8-BAE0-E0566B672082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBB084A-E7B3-48C8-BAE0-E0566B672082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBB084A-E7B3-48C8-BAE0-E0566B672082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBB084A-E7B3-48C8-BAE0-E0566B672082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
